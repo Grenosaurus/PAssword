@@ -4,6 +4,6 @@ Program has two options: (option 1) generates and stores password and (Option 2)
 
 Program uses python's encryption packets to encrypt the encoded password and also decrypting them when copied to the computer. For roperating the password.py, you need a encryption key file. Encryption file consists encryption keys which the program uses. File is generated with encrypt.py program.
 
-This program is not 100% safe and is recomended for learning purpose only, more in disclaimer.txt
+The program is only for learning purpose, more in disclaimer.txt. Read all the files provided in this repository.
 
 Program requirments are found in requirments.txt
