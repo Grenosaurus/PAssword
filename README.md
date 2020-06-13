@@ -2,9 +2,9 @@
 
 Program has two options:
 
-   Option 1. Generates and stores password (if wanted)
+  Option 1. Generates and stores password (if wanted)
    
-   option 2. Copies password (if the account exist)
+  Option 2. Copies password (if the account exist)
    
 Both options are accessed by giving a personal 'Master Password'.
 
