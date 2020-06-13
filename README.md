@@ -1,4 +1,4 @@
-# PAssword
+# Password
 
 Program has two options:
    Option 1. Generates and stores password (if wanted)
