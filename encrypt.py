@@ -8,7 +8,6 @@ from cryptography.fernet import Fernet
 
 def encryptionKey():
     
-
     key = Fernet.generate_key()
     f = Fernet(key)
     print(f)
