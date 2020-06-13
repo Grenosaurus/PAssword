@@ -1,0 +1,1 @@
+This program is not 100% safe and is build for learning purpose alone.
