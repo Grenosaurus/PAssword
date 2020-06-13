@@ -96,8 +96,8 @@ def readPassword(filename, f):
 
 def main():
 
-    password_file = 'textfile/test.txt' # File where the passwords and account site name will be stored | Change the name and format
-    encryption_file = 'textfile/key.key' # File which consists encryption key
+    password_file = 'files/test.txt' # File where the passwords and account site name will be stored | Change the name and format
+    encryption_file = 'files/key.key' # File which consists encryption key
 
     master_password = input('Master password: ') # Master password for accesing the passwords
 
