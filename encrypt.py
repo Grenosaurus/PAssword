@@ -1,5 +1,5 @@
 """
- Generates encryption key and stores it in a file. ileformat can be changed to own version (Made: Jauaries).
+ Generates encryption key and stores it in a file. ileformat can be changed to own version.
 """
 
 # Python Packets
