@@ -2,7 +2,7 @@
  Program has two different options: 
   Option 1. Generates new password and stores it in a text file as binary with the account name.  
   Option 2. Copies existing password for use
- For accessing both option user must give a master password of their own choise (Made: Jauaries).
+ For accessing both option user must give a master password of their own choise.
 """
 
 
