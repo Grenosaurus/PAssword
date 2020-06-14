@@ -12,7 +12,7 @@ def encryptionKey():
     f = Fernet(key)
     print(f)
 
-    filename = 'key.key' # Change the filename and format for own specific
+    filename = 'files/key.key' # Change the filename and format for own specific
 
     file = open(filename, 'wb')
     file.write(key)
