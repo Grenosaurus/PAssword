@@ -1,5 +1,4 @@
-Needed dependencies:
-  pyperclip
-  pickle
-  random
-  cryptography
+pyperclip
+pickle
+random
+cryptography
